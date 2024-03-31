@@ -78,5 +78,5 @@ Feel Free to do the little tinkerings and changes with the codes wherever you fe
 
 ## License
 
-This project is licensed under the [LICENSE.md](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
