@@ -75,6 +75,8 @@ Based on the sensor reading, the direction of servo motor control is shown.
 ## Contributing
 
 Feel Free to do the little tinkerings and changes with the codes wherever you feel improvement can be done.
+
 ## License
 
-MIT License
+This project is licensed under the [LICENSE.md](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
